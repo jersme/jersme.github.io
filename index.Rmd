@@ -1,0 +1,17 @@
+---
+title: "Jeroen Smeets"
+image: "Jeroen_Smeets-5.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/smeetsjeroen/"
+  - label: GitHub
+    url: "https://github.com/jersme"
+  - label: Email
+    url: "mailto:jersme@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
